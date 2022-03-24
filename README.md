@@ -3,8 +3,8 @@
 ### Natural Language
 
 - Chinese ![100%](https://progress-bar.dev/100)
-- English(Medium level)
-- Japanese(勉強中)　
+- English ![60%](https://progress-bar.dev/60)
+- Japanese ![30%](https://progress-bar.dev/30)
 
 ### Tech Stack
 
