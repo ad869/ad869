@@ -1,19 +1,21 @@
-### Hi there 👋
+> 👨🏻‍💻 RD && OP && SRE Developer
 
-<!--
-**ad869/ad869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Natural Language
 
-Here are some ideas to get you started:
+- Chinese(native speaker)
+- English(Medium level)
+- Japanese(勉強中)　
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🛠 Languages: Chinese(native speaker), English(Medium level), Japanese(勉強中)　
-- 🤔 I will be writing on [medium](https://medium.com/@applying.cool) about some of the little stories.
-- ⚡ I will be posting some tutorials on my own personal website.[applying.cool](https://www.applying.cool)
+### Tech Stack
+
+- Golang (API server, Kubernetes Operator, Command tools)
+- k8s && CNCF (prometheus, argocd ...)
+- Terraform (AWS, Azure)
+- Bash/Shell (simple command tools)
+- Javascript/Typescript (basic level)
+- Swift && SwiftUI (Interest in)
+
+### Posts
+
+- Writing on [medium](https://medium.com/@applying.cool) about some of the little stories.
+- Posting some tech tutorials on my own personal website.[applying.cool](https://www.applying.cool)
