@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🛠 Language: Chinese(native speaker), English(Medium level), Japanese(勉強中)　
+- 🤔 I will be writing on this [medium](https://medium.com/@applying.cool) about some of the little stories that I encounter in my daily work that deserve to be remembered.
+- ⚡ I will be posting some tutorials on my own personal website.[applying.cool](https://www.applying.cool)
