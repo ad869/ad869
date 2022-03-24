@@ -2,14 +2,11 @@
 
 ### Natural Language
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-- Chinese   ![100%](https://progress-bar.dev/100)
-- English   ![60%](https://progress-bar.dev/60)
-- Japanese  ![30%](https://progress-bar.dev/30)
+| Language    | Proficiency | 
+| :---        |    :----:   | 
+| Chinese     | ![100%](https://progress-bar.dev/100)| 
+| English     | ![60%](https://progress-bar.dev/60)  | 
+| Japanese    | ![30%](https://progress-bar.dev/30)  | 
 
 ### Tech Stack
 
