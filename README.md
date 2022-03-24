@@ -8,12 +8,15 @@
 
 ### Tech Stack
 
-- Golang (API server, Kubernetes Operator, Command tools)
-- k8s && CNCF (prometheus, argocd ...)
-- Terraform (AWS, Azure)
-- Bash/Shell (simple command tools)
-- Javascript/Typescript (basic level)
-- Swift && SwiftUI (Interest in)
+- master
+  - Golang (API server, Kubernetes Operator, Command tools)
+  - k8s && CNCF (prometheus, argocd ...)
+  - Terraform (AWS, Azure)
+  - Bash/Shell (simple command tools)
+- medium
+  - Javascript/Typescript (basic level)
+- interest
+  - Swift && SwiftUI (Interest in)
 
 ### Posts
 
