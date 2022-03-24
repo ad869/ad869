@@ -2,9 +2,9 @@
 
 ### Natural Language
 
-- Chinese ![100%](https://progress-bar.dev/100)
-- English ![60%](https://progress-bar.dev/60)
-- Japanese ![30%](https://progress-bar.dev/30)
+- Chinese   ![100%](https://progress-bar.dev/100)
+- English   ![60%](https://progress-bar.dev/60)
+- Japanese  ![30%](https://progress-bar.dev/30)
 
 ### Tech Stack
 
