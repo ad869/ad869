@@ -2,7 +2,7 @@
 
 ### Natural Language
 
-- Chinese(native speaker)
+- Chinese ![100%](https://progress-bar.dev/100)
 - English(Medium level)
 - Japanese(勉強中)　
 
