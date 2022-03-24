@@ -14,9 +14,9 @@
   - Terraform (AWS, Azure)
   - Bash/Shell (simple command tools)
 - medium
-  - Javascript/Typescript (basic level)
+  - Javascript/Typescript
 - interest
-  - Swift && SwiftUI (Interest in)
+  - Swift && SwiftUI
 
 ### Posts
 
